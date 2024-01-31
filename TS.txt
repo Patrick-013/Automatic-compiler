@@ -1,0 +1,3 @@
+le Nom d'état = "A", l'adresse = 4
+le Nom d'état = "B", l'adresse = 17
+le Nom d'état = "C", l'adresse = 30
